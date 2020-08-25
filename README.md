@@ -8,9 +8,8 @@ I am web developer, mostly working in PHP and Laravel. I'm from Bijeljina, Bosni
 
 ### Connect with me:
 
-[<img align="left" alt="vertex-it.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vertex-it.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.vertex-it.com/en)
 
-[<img align="left" alt="Mile Panic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
+[<img align="left" alt="Mile Panic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mile-pani%C4%87-22016612a/)
 
-[<img align="left" alt="Mile Panic | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-
+[<img align="left" alt="Mile Panic | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/mile_dont_panic?si=ylT9IF5rS7Wv3e4ey2SJJw)
