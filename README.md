@@ -1,16 +1,16 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/milepanic/milepanic/master/lamp.png)
 
-<!--
-**milepanic/milepanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Mile Panić 
 
-Here are some ideas to get you started:
+I am web developer, mostly working in PHP and Laravel. I'm from Bijeljina, Bosnia and Herzegovina, and currently I am working remotely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milepanic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="vertex-it.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="Mile Panic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
+
+[<img align="left" alt="Mile Panic | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+
